@@ -1,2 +1,1 @@
-This is Calvin's first git project!
-
+This is Calvin's first project!
